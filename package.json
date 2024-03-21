@@ -1,0 +1,20 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "1. Creational patterns 1. Structural patterns 1. Behavioral patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-specifier-resolution=node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cr-arostegui/design-patterns.git"
+  },
+  "author": "Cristhian Arostegui Enriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cr-arostegui/design-patterns/issues"
+  },
+  "homepage": "https://github.com/cr-arostegui/design-patterns#readme",
+  "type": "module"
+}
