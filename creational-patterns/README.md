@@ -3,3 +3,4 @@ These patterns provide various object creation mechanisms, which increase flexib
 
 - [Singleton](https://github.com/cr-arostegui/design-patterns/tree/main/creational-patterns/Singleton)
 - [Factory](https://github.com/cr-arostegui/design-patterns/tree/main/creational-patterns/Factory)
+- [Builder](https://github.com/cr-arostegui/design-patterns/tree/main/creational-patterns/Builder)

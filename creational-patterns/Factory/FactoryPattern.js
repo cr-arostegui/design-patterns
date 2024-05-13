@@ -2,7 +2,7 @@ import Pattern from '../../Pattern';
 import RoadLogistics from './logistics/RoadLogistics';
 import SeaLogistics from './logistics/SeaLogistics';
 
-export default class SingletonPattern extends Pattern {
+export default class FactoryPattern extends Pattern {
   static run() {
     console.log('---- Factory ----')
     const isLocationClose = true;
